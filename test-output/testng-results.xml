@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12657" started-at="2020-03-08T04:36:11Z" finished-at="2020-03-08T04:36:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12657" started-at="2020-03-08T04:36:11Z" finished-at="2020-03-08T04:36:24Z">
+      <class name="com.selenium.rediff.landingpage.RediffLandingPageValidation">
+        <test-method status="PASS" signature="instantiateBrowserDriver()[pri:0, instance:com.selenium.rediff.landingpage.RediffLandingPageValidation@396a51ab]" name="instantiateBrowserDriver" is-config="true" duration-ms="8089" started-at="2020-03-08T10:06:11Z" finished-at="2020-03-08T10:06:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiateBrowserDriver -->
+        <test-method status="PASS" signature="LoginPage()[pri:0, instance:com.selenium.rediff.landingpage.RediffLandingPageValidation@396a51ab]" name="LoginPage" duration-ms="4535" started-at="2020-03-08T10:06:19Z" finished-at="2020-03-08T10:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.rediff.landingpage.RediffLandingPageValidation@396a51ab]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2020-03-08T10:06:24Z" finished-at="2020-03-08T10:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.selenium.rediff.landingpage.RediffLandingPageValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
